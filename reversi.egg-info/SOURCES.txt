@@ -1,0 +1,11 @@
+setup.py
+bindings/bindings.cpp
+reversi.egg-info/PKG-INFO
+reversi.egg-info/SOURCES.txt
+reversi.egg-info/dependency_links.txt
+reversi.egg-info/top_level.txt
+src/board.cpp
+src/easy_ai.cpp
+src/game.cpp
+src/hard_ai.cpp
+src/medium_ai.cpp

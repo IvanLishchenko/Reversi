@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+bindings/bindings.cpp
+src/ai.cpp
+src/board.cpp
+src/game.cpp
+src/reversi.egg-info/PKG-INFO
+src/reversi.egg-info/SOURCES.txt
+src/reversi.egg-info/dependency_links.txt
+src/reversi.egg-info/top_level.txt
